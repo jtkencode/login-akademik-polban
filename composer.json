@@ -1,0 +1,15 @@
+{
+    "name": "jtkencode/login-akademik-polban",
+    "description": "Authenticate a user to akademik.polban.ac.id.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Muhammad Saiful Islam",
+            "email": "muhammad@saiful.web.id"
+        }
+    ],
+    "minimum-stability": "dev"
+}
